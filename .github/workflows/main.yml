@@ -37,10 +37,10 @@ jobs:
       # ---------------------------------
       # Build zip directly into plugins/
       # ---------------------------------
-      - name: Build DiceR.zip
+      - name: Build tagImagesFromGalleries.zip
         run: |
           cd plugins
-          zip -r DiceR.zip DiceR
+          zip -r tagImagesFromGalleries.zip tagImagesFromGalleries
 
       # ---------------------------------
       # Calculate SHA256 of committed zip
