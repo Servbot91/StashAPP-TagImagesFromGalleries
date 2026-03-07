@@ -1,7 +1,7 @@
 name: Tag images from galleries
 description: Tags images with tags of galleries.
-version: 1.0.3
-url: https://discourse.stashapp.cc/t/tag-galleries-from-images/3904
+version: 1.0
+url: https://discourse.stashapp.cc/t/tag-images-from-galleries/6024
 
 exec:
   - python
